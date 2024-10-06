@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|c:\\mycode\\oop\\mostenire\\interfaceexersare\\interfaceexersare\\repository\\masinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|solutionrelative:interfaceexersare\\repository\\masinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|c:\\mycode\\oop\\mostenire\\interfaceexersare\\interfaceexersare\\repository\\imasinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|solutionrelative:interfaceexersare\\repository\\imasinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|c:\\mycode\\oop\\mostenire\\interfaceexersare\\interfaceexersare\\services\\imasinaqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|solutionrelative:interfaceexersare\\services\\imasinaqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|c:\\mycode\\oop\\mostenire\\interfaceexersare\\interfaceexersare\\services\\masinaqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|solutionrelative:interfaceexersare\\services\\masinaqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|c:\\mycode\\oop\\mostenire\\interfaceexersare\\interfaceexersare\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|solutionrelative:interfaceexersare\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|c:\\mycode\\oop\\mostenire\\interfaceexersare\\interfaceexersare\\services\\masinacomandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|solutionrelative:interfaceexersare\\services\\masinacomandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|c:\\mycode\\oop\\mostenire\\interfaceexersare\\interfaceexersare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|solutionrelative:interfaceexersare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|c:\\mycode\\oop\\mostenire\\interfaceexersare\\interfaceexersare\\services\\imasinacomandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|solutionrelative:interfaceexersare\\services\\imasinacomandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|c:\\mycode\\oop\\mostenire\\interfaceexersare\\interfaceexersare\\models\\masina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D30E89D-EA7C-4635-BA52-B62E7ED4C39C}|InterfaceExersare\\InterfaceExersare.csproj|solutionrelative:interfaceexersare\\models\\masina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MasinaComandService.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\services\\MasinaComandService.cs",
+              "RelativeDocumentMoniker": "InterfaceExersare\\services\\MasinaComandService.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\services\\MasinaComandService.cs",
+              "RelativeToolTip": "InterfaceExersare\\services\\MasinaComandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:47:31.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\View.cs",
+              "RelativeDocumentMoniker": "InterfaceExersare\\View.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\View.cs",
+              "RelativeToolTip": "InterfaceExersare\\View.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:08:10.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasinaQueryService.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\services\\MasinaQueryService.cs",
+              "RelativeDocumentMoniker": "InterfaceExersare\\services\\MasinaQueryService.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\services\\MasinaQueryService.cs",
+              "RelativeToolTip": "InterfaceExersare\\services\\MasinaQueryService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvywAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:55:19.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MasinaRepository.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\repository\\MasinaRepository.cs",
+              "RelativeDocumentMoniker": "InterfaceExersare\\repository\\MasinaRepository.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\repository\\MasinaRepository.cs",
+              "RelativeToolTip": "InterfaceExersare\\repository\\MasinaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:42:36.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMasinaRepository.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\repository\\IMasinaRepository.cs",
+              "RelativeDocumentMoniker": "InterfaceExersare\\repository\\IMasinaRepository.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\repository\\IMasinaRepository.cs",
+              "RelativeToolTip": "InterfaceExersare\\repository\\IMasinaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:40:34.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMasinaQueryService.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\services\\IMasinaQueryService.cs",
+              "RelativeDocumentMoniker": "InterfaceExersare\\services\\IMasinaQueryService.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\services\\IMasinaQueryService.cs",
+              "RelativeToolTip": "InterfaceExersare\\services\\IMasinaQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:39:50.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMasinaComandService.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\services\\IMasinaComandService.cs",
+              "RelativeDocumentMoniker": "InterfaceExersare\\services\\IMasinaComandService.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\services\\IMasinaComandService.cs",
+              "RelativeToolTip": "InterfaceExersare\\services\\IMasinaComandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:39:07.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Masina.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\models\\Masina.cs",
+              "RelativeDocumentMoniker": "InterfaceExersare\\models\\Masina.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\models\\Masina.cs",
+              "RelativeToolTip": "InterfaceExersare\\models\\Masina.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:18:52.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceExersare\\Program.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\InterfaceExersare\\InterfaceExersare\\Program.cs",
+              "RelativeToolTip": "InterfaceExersare\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:17:57.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
